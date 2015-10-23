@@ -1,6 +1,6 @@
 # El Capitan Login Theme
 
-El Capitan Login Theme for [clover hackintosh](http://sourceforge.net/projects/cloverefiboot/).  Continuation of the Yosemite Login theme from the [clover theme database] (http://clover-wiki.zetam.org/theme-database).
+El Capitan Login Theme for [clover hackintosh](http://sourceforge.net/projects/cloverefiboot/).  Continuation of xenatt's Yosemite Login theme from the [clover theme database] (http://clover-wiki.zetam.org/theme-database).
 
 ![screen shot](https://raw.githubusercontent.com/jrnewell/el-capitan-login/master/screenshot.png)
 
