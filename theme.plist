@@ -40,6 +40,8 @@
 			<true/>
 			<key>Revision</key>
 			<false/>
+            <key>Help</key>
+            <false/>
 		</dict>
 		<key>Font</key>
 		<dict>
